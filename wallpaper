@@ -20,28 +20,28 @@
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.banner"
+          "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
         }
       ],
       "interstitial_ads": [
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.interstitial"
+          "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
         }
       ],
       "native_ads": [
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.native"
+          "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
         }
       ],
       "app_open_ads": [
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.openapp"
+          "ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
         }
       ]
     },
