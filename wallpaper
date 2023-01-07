@@ -1,5 +1,5 @@
 {
-  "is_ad_enable": true,
+  "is_ad_enable": false,
   "ad_networks": [
     {
       "ad_network": "Google",
