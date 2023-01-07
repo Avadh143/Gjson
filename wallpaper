@@ -1,0 +1,131 @@
+{
+  "is_ad_enable": true,
+  "ad_networks": [
+    {
+      "ad_network": "Google",
+      "enabled": true,
+      "priority": 1,
+      "count": 2,
+      "color_status": 0,
+      "custom_status": 0,
+      "hd_status": 0,
+      "auto_status": 1,
+      "save_status": 0,
+      "paint_status": 0,
+      "q1": "",
+      "q2": "",
+      "q3": "",
+      "api_key": "",
+      "banner_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Google",
+          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.banner"
+        }
+      ],
+      "interstitial_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Google",
+          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.interstitial"
+        }
+      ],
+      "native_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Google",
+          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.native"
+        }
+      ],
+      "app_open_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Google",
+          "ad_unit_id": "/22686075355/com.solid.color.wallpaper.hd.live.background.timer.changer.editor.openapp"
+        }
+      ]
+    },
+    {
+      "ad_network": "Tapdaq",
+      "enabled": false,
+      "priority": 3,
+      "api_key": "",
+      "banner_ads": [
+        {
+          "enabled": false,
+          "ad_network": "Tapdaq",
+          "ad_unit_id": "default"
+        }
+      ],
+      "interstitial_ads": [
+        {
+          "enabled": false,
+          "ad_network": "Tapdaq",
+          "ad_unit_id": "default"
+        }
+      ],
+      "native_ads": [
+        {
+          "enabled": false,
+          "ad_network": "Tapdaq",
+          "ad_unit_id": "default"
+        }
+      ],
+      "app_open_ads": [
+        {
+          "enabled": false,
+          "ad_network": "Tapdaq",
+          "ad_unit_id": "default"
+        }
+      ],
+      "rewarded_ads": [
+        {
+          "enabled": false,
+          "ad_network": "Tapdaq",
+          "ad_unit_id": "default"
+        }
+      ]
+    },
+    {
+      "ad_network": "Facebook",
+      "enabled": true,
+      "priority": 2,
+      "api_key": "",
+      "banner_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Facebook",
+          "ad_unit_id": "437296508109421_455482516290820"
+        }
+      ],
+      "interstitial_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Facebook",
+          "ad_unit_id": "437296508109421_441210224384716"
+        }
+      ],
+      "native_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Facebook",
+          "ad_unit_id": "437296508109421_441210357718036"
+        }
+      ],
+      "native_banner_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Facebook",
+          "ad_unit_id": "437296508109421_441210547718017"
+        }
+      ],
+      "rewarded_ads": [
+        {
+          "enabled": true,
+          "ad_network": "Facebook",
+          "ad_unit_id": "437296508109421_441210727717999"
+        }
+      ]
+    }
+  ]
+}
