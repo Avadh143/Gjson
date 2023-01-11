@@ -5,7 +5,7 @@
             "ad_network": "Google",
             "enabled": true,
             "count": 8,
-            "priority": 1,
+            "priority": 2,
             "api_key": "",
             "banner_ads": [
                 {
