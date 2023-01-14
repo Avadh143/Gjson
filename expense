@@ -4,7 +4,7 @@
         {
             "ad_network": "Google",
             "enabled": true,
-            "count": 2,
+            "count": 8,
             "priority": 1,
             "api_key": "",
             "banner_ads": [
@@ -18,21 +18,21 @@
                 {
                     "enabled": false,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+                    "ad_unit_id": "ca-app-pub-1162860925378949/1791577323"
                 }
             ],
             "native_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+                    "ad_unit_id": "ca-app-pub-1162860925378949/5628796270"
                 }
             ],
             "app_open_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
+                    "ad_unit_id": "ca-app-pub-1162860925378949/8254959612"
                 }
             ]
         },
