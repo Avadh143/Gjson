@@ -9,7 +9,7 @@
       "color_status": 0,
       "custom_status": 0,
       "hd_status": 0,
-      "auto_status": 0,
+      "auto_status": 1,
       "save_status": 0,
       "paint_status": 0,
       "q1": "",
@@ -27,21 +27,21 @@
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+          "ad_unit_id": "ca-app-pub-1162860925378949/2174720705"
         }
       ],
       "native_ads": [
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+          "ad_unit_id": "ca-app-pub-1162860925378949/6782381257"
         }
       ],
       "app_open_ads": [
         {
           "enabled": true,
           "ad_network": "Google",
-          "ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
+          "ad_unit_id": "ca-app-pub-1162860925378949/2401951415"
         }
       ]
     },
