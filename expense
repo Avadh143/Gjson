@@ -1,5 +1,5 @@
 {
-    "is_ad_enable": false,
+    "is_ad_enable": true,
     "ad_networks": [
         {
             "ad_network": "Google",
@@ -25,7 +25,7 @@
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-1162860925378949/5628796270"
+                    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
                 }
             ],
             "app_open_ads": [
