@@ -16,9 +16,9 @@
             ],
             "interstitial_ads": [
                 {
-                    "enabled": false,
+                    "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-1162860925378949/1791577323"
+                    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
                 }
             ],
             "native_ads": [
@@ -30,9 +30,9 @@
             ],
             "app_open_ads": [
                 {
-                    "enabled": false,
+                    "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-1162860925378949/8254959612"
+                    "ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
                 }
             ]
         },
