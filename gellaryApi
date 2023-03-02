@@ -18,21 +18,21 @@
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-1162860925378949/9086785435"
+                    "ad_unit_id": "ca-app-pub-6121511571262216/6077112122"
                 }
             ],
             "native_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-1162860925378949/7336404272"
+                    "ad_unit_id": "ca-app-pub-6121511571262216/2137867118"
                 }
             ],
             "app_open_ads": [
                 {
-                    "enabled": true,
+                    "enabled": false,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-1162860925378949/3484789177"
+                    "ad_unit_id": "ca-app-pub-6121511571262216/3078864953"
                 }
             ]
         },
