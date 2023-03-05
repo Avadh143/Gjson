@@ -30,7 +30,7 @@
             ],
             "app_open_ads": [
                 {
-                    "enabled": true,
+                    "enabled": false,
                     "ad_network": "Google",
                     "ad_unit_id": "ca-app-pub-6121511571262216/4462941262"
                 }
