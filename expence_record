@@ -5,7 +5,7 @@
             "ad_network": "Google",
             "enabled": false,
             "count": 2,
-            "priority": 2,
+            "priority": 1,
             "api_key": "",
             "banner_ads": [
                 {
@@ -80,7 +80,7 @@
         {
             "ad_network": "Facebook",
             "enabled": true,
-            "priority": 1,
+            "priority": 2,
              "count": 2,
             "api_key": "",
             "banner_ads": [
