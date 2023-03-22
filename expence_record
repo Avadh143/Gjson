@@ -1,9 +1,9 @@
 {
-    "is_ad_enable": true,
+    "is_ad_enable": false,
     "ad_networks": [
         {
             "ad_network": "Google",
-            "enabled": true,
+            "enabled": false,
             "count": 2,
             "priority": 1,
             "api_key": "",
