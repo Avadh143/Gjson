@@ -3,7 +3,7 @@
     "ad_networks": [
         {
             "ad_network": "Google",
-            "enabled": false,
+            "enabled": true,
             "count": 2,
             "priority": 1,
             "api_key": "",
