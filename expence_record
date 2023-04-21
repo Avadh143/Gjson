@@ -5,7 +5,7 @@
             "ad_network": "Google",
             "enabled": false,
             "count": 2,
-            "priority": 1,
+            "priority": 2,
             "api_key": "",
             "banner_ads": [
                 {
@@ -80,35 +80,35 @@
         {
             "ad_network": "Facebook",
             "enabled": true,
-            "priority": 2,
+            "priority": 1,
              "count": 2,
             "api_key": "",
             "banner_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Facebook",
-                    "ad_unit_id": "437296508109421_455482516290820"
+                    "ad_unit_id": "173986571817211_173986878483847"
                 }
             ],
             "interstitial_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Facebook",
-                    "ad_unit_id": "437296508109421_441210224384716"
+                    "ad_unit_id": "173986571817211_173986981817170"
                 }
             ],
             "native_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Facebook",
-                    "ad_unit_id": "437296508109421_441210357718036"
+                    "ad_unit_id": "173986571817211_173987068483828"
                 }
             ],
             "native_banner_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Facebook",
-                    "ad_unit_id": "437296508109421_441210547718017"
+                    "ad_unit_id": "173986571817211_173987118483823"
                 }
             ],
             "rewarded_ads": [
