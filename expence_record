@@ -1,5 +1,5 @@
 {
-    "is_ad_enable": false,
+    "is_ad_enable": true,
     "ad_networks": [
         {
             "ad_network": "Google",
@@ -11,26 +11,26 @@
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-4872423284958215/1644162347"
+                    "ad_unit_id": "173986571817211_173986878483847"
                 }
             ],
             "interstitial_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+                    "ad_unit_id": "173986571817211_173986981817170"
                 }
             ],
             "native_ads": [
                 {
                     "enabled": true,
                     "ad_network": "Google",
-                    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+                    "ad_unit_id": "173986571817211_173987068483828"
                 }
             ],
             "app_open_ads": [
                 {
-                    "enabled": true,
+                    "enabled": false,
                     "ad_network": "Google",
                     "ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
                 }
