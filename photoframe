@@ -4,9 +4,10 @@
         {
             "ad_network": "Google",
             "enabled": true,
+            "count": 1,
             "priority": 1,
             "api_key": "",
-            "banner_ads": [
+             "banner_ads": [
                 {
                     "enabled": false,
                     "ad_network": "Google",
@@ -118,3 +119,4 @@
             ]
         }
     ]
+}
